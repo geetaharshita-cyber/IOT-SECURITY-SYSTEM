@@ -33,3 +33,7 @@ This project can be further enhanced by adding biometric authentication, face re
 One of the major benefits of IoT security systems is real-time communication. Immediate alerts help users take quick action during emergencies, reducing risks and property damage. The system is suitable for homes, banks, offices, industries, shopping malls, and public buildings.
 
 In conclusion, the IoT-based Security System is an innovative and practical hardware project that demonstrates the application of internet-connected devices in modern security solutions. It combines sensors, communication technology, and automation to provide intelligent monitoring and protection. The project highlights the growing importance of IoT technology in creating safe, smart, and secure environments for the future.
+
+##OUTPUT
+
+<img width="1448" height="1086" alt="Image" src="https://github.com/user-attachments/assets/6ec8b78f-6abb-4af1-a71e-9ac0bc27cf4a" />
